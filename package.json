@@ -1,0 +1,15 @@
+{
+  "name": "vedant-birajdar-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website of Vedant Birajdar - B.Tech student and software developer specializing in Python, C, C++, and GUI Development.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.3.8"
+  }
+}
